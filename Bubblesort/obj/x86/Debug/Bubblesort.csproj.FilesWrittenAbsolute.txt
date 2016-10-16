@@ -1,0 +1,5 @@
+/Users/margretunnarsdottir/Documents/Msc Information and Communication Technology - ARU/C#/Bubblesort/Bubblesort/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/margretunnarsdottir/Documents/Msc Information and Communication Technology - ARU/C#/Bubblesort/Bubblesort/bin/Debug/Bubblesort.exe.mdb
+/Users/margretunnarsdottir/Documents/Msc Information and Communication Technology - ARU/C#/Bubblesort/Bubblesort/bin/Debug/Bubblesort.exe
+/Users/margretunnarsdottir/Documents/Msc Information and Communication Technology - ARU/C#/Bubblesort/Bubblesort/obj/x86/Debug/Bubblesort.exe
+/Users/margretunnarsdottir/Documents/Msc Information and Communication Technology - ARU/C#/Bubblesort/Bubblesort/obj/x86/Debug/Bubblesort.exe.mdb

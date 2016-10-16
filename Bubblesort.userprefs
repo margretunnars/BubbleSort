@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{BCEB6AB5-BEE5-4D90-891C-601FAA4A751C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bubblesort/Program.cs">
+    <Files>
+      <File FileName="Bubblesort/Program.cs" Line="26" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Bubblesort PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
