@@ -15,8 +15,6 @@ namespace Bubblesort
 
 			Console.Write("\n");
 
-			//comment
-
 			number = OrderAscending(number);
 
 
